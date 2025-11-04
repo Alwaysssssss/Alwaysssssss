@@ -5,7 +5,7 @@
 ### 🚀 经历
 
 #### 🎨 开源项目发起者
-- **社区项目** | AI部署框架nndeploy | **技术栈**: 可视化工作流流、有向无环图、多端推理、推理子模块、高性能算子、异构设备管理、丰富的基础组件 | **结果**: GitHub 1.2k+ stars，让机器学习落地变得简单且高性能
+- **社区项目** | AI部署框架nndeploy | **技术栈**: 可视化工作流流、有向无环图、多端推理、推理子模块、高性能算子、异构设备管理、丰富的基础组件、前后端 | **结果**: GitHub 1.2k+ stars，让机器学习落地变得简单且高性能
 
 #### 🔬 高性能计算研究员
 - **高校研究院** | 高性能计算优化研究 | **技术栈**: 并行计算、CUDA、OpenCL、性能分析工具 | **结果**: 单算子最大加速50倍
@@ -42,5 +42,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alwaysssssss/Alwaysssssss/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Alwaysssssss/Alwaysssssss/output/github-contribution-grid-snake.svg">
 </picture>
-
----- 
