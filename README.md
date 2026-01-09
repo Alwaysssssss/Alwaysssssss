@@ -1,6 +1,6 @@
 # 周昊（找工作中）
 
-> 电话：13265530318 | 邮箱：595961667@qq.com | [我的Github页面](https://github.com/Alwaysssssss)
+> 电话：1326553xxxx | 邮箱：595961667@qq.com | [我的Github页面](https://github.com/Alwaysssssss)
 
 ## 亮点
 
