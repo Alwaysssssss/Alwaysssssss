@@ -78,16 +78,6 @@
 + 职责：AI+HPC项目负责人（统筹全流程）、HPC方向开发工程师
   + 前期技术需求洽谈，参与合同撰写，解决方案的架构设计，开发任务分配，难点问题解决，向甲方交付
 
-### CV算子库 | 万兴科技 | 2022.10 ~ 2023.02
-+ 是什么：CV算子库，支持ARM/x86/CUDA/OpenGL
-+ 为什么：出于包体积和性能考虑，替换算法工程化框架中的OpenCV
-+ 成果：
-  + 在算法工程化框架的移动端，移除对OpenCV的依赖，移动端CV算子库包体积为400Kb
-  + 相比OpenCV，移动端平均加速20%
-+ 职责：架构师
-  + CV算子库的架构设计 - 与OpenCV接口对齐，Mat的数据结构、算子的dispatch机制
-  + 负责CV算子库在ARM端的实现，采用NEON指令集实现，包括GEMM、MinMaxLoc、reduce、element、resize、CvtColor、Crop等数十个算子
-
 ### 算法工程化框架 | 万兴科技 | 2021.07 ~ 2023.03
 + 是什么：算法中台的算法工程化框架，承担算法中台所有CV/Audio/传统算法的落地
 + 为什么：算法需要上线各类产品线(Win/Mac/Android/iOS/Linux)，需要一个算法工程化框架来解决算法落地时间长、性能差、稳定性低等问题
@@ -101,6 +91,7 @@
   + 统一的对外接口设计 - 算法接口、参数配置、推理数据Blob、图像数据Mat
   + 多端推理模块 - 适配TNN/TensorRT/MNN/ONNXRuntime/TVM/(OpenVino/TF-lite/Core-ML)
   + 异构设备模块 - 支持CPU/ARM/X86/CUDA/OpenCL/OpenGL
+  + CV算子 - 支持ARM/x86/CUDA/OpenGL
   + 公共模块 - 文件操作、字符串操作、浮点精度转换等帮助函数、基础类型
   + CI/CD - benchmark、单元测试、自动化文档等
   + 工具集 - ONNX修改工具、ONNX统计信息、时间测量工具 
